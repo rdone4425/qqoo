@@ -1,0 +1,21 @@
+2024-10-08 00:34:20,125 - INFO - 程序启动
+2024-10-08 00:34:20,156 - DEBUG - QApplication 创建成功
+2024-10-08 00:34:20,156 - DEBUG - 设置 Fusion 风格
+2024-10-08 00:34:20,156 - DEBUG - 初始化 GitHubUploader
+2024-10-08 00:34:20,156 - DEBUG - 加载配置
+2024-10-08 00:34:20,156 - DEBUG - 开始加载配置
+2024-10-08 00:34:20,156 - DEBUG - 初始化 UI
+2024-10-08 00:34:20,156 - DEBUG - 开始初始化 UI
+2024-10-08 00:34:20,784 - DEBUG - 加载 Token
+2024-10-08 00:34:20,784 - DEBUG - GitHubUploader 实例创建成功
+2024-10-08 00:34:21,301 - DEBUG - 显示主窗口
+2024-10-08 00:34:21,301 - INFO - 进入主事件循环
+2024-10-08 00:34:27,930 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-10-08 00:34:30,624 - DEBUG - https://api.github.com:443 "GET /user/repos?page=1&per_page=100 HTTP/1.1" 200 None
+2024-10-08 00:34:30,796 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-10-08 00:34:33,177 - DEBUG - https://api.github.com:443 "GET /user/repos?page=2&per_page=100 HTTP/1.1" 200 None
+2024-10-08 00:34:33,192 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-10-08 00:34:35,422 - DEBUG - https://api.github.com:443 "GET /user/repos?page=3&per_page=100 HTTP/1.1" 200 2
+2024-10-08 00:34:36,691 - INFO - 操作成功: 已获取 123 个仓库
+2024-10-08 00:35:25,511 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-10-08 00:35:28,001 - DEBUG - https://api.github.com:443 "GET /repos/rdone4425/qqoo HTTP/1.1" 200 None
